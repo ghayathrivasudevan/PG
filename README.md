@@ -17,6 +17,7 @@ The Code is written in Python 3.6.10. If you don't have Python installed you can
 ## Directory Tree 
 
 ├── salesforecasting.ipynb
+
 ├── salesforecasting.docs
 
 ## Technologies Used
